@@ -1,7 +1,6 @@
 # Devops with Docker (Proposed Solutions)
 
 ## 1.9
-___
 Submit the command you used to complete the exercise
 
 **Command**
@@ -18,7 +17,6 @@ Secret message is:
 ```
 
 ## 1.10
-___
 Submit the command you used to complete the exercise
 
 ```Shell
